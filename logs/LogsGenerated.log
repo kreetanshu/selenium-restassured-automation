@@ -1,0 +1,49 @@
+[DEBUG] 2025-08-10 19:08:21.257 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 19:08:23.233 [main] Login - login successfull
+[INFO ] 2025-08-10 19:08:23.382 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 19:08:23.411 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 19:08:23.517 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 19:56:04.454 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 19:56:07.513 [main] Login - login successfull
+[INFO ] 2025-08-10 19:56:07.739 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 19:56:07.776 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 19:56:07.885 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 20:00:06.772 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 20:00:09.066 [main] Login - login successfull
+[INFO ] 2025-08-10 20:00:09.262 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 20:00:09.297 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 20:00:09.358 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 20:03:49.442 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 20:03:51.637 [main] Login - login successfull
+[INFO ] 2025-08-10 20:03:51.857 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 20:03:51.891 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 20:03:51.988 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 20:04:29.451 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 20:04:31.586 [main] Login - login successfull
+[INFO ] 2025-08-10 20:04:31.781 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 20:04:31.816 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 20:04:31.907 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 22:40:40.802 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 22:40:44.799 [main] Login - login successfull
+[INFO ] 2025-08-10 22:40:45.101 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 22:40:45.162 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 22:40:45.396 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 22:42:58.002 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 22:43:00.886 [main] Login - login successfull
+[INFO ] 2025-08-10 22:43:01.170 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 22:43:01.232 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 22:43:01.492 [main] Login - Browser closed successfully
+[DEBUG] 2025-08-10 23:01:21.969 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\Learning\javapractice\demo\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 23:01:25.750 [main] Login - login successfull
+[INFO ] 2025-08-10 23:01:25.996 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 23:01:26.046 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 23:01:26.184 [main] Login - Browser closed successfully
+[INFO ] 2025-08-10 23:01:30.062 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-10 23:01:30.063 [main] APITests - GET API Test Passed
+[DEBUG] 2025-08-10 23:12:16.474 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-10 23:12:19.733 [main] Login - login successfull
+[INFO ] 2025-08-10 23:12:19.989 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-10 23:12:20.057 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-10 23:12:20.267 [main] Login - Browser closed successfully
+[INFO ] 2025-08-10 23:12:24.430 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-10 23:12:24.430 [main] APITests - GET API Test Passed
