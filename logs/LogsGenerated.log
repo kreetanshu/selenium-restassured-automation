@@ -47,3 +47,164 @@
 [INFO ] 2025-08-10 23:12:20.267 [main] Login - Browser closed successfully
 [INFO ] 2025-08-10 23:12:24.430 [main] APITests - Running sample API test with employee count: 24
 [INFO ] 2025-08-10 23:12:24.430 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 13:21:13.988 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 13:21:13.993 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 13:23:03.752 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 13:23:03.756 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 13:24:40.893 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 13:24:40.897 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 13:25:55.379 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 13:25:55.382 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 13:28:43.911 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 13:28:43.921 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 13:31:26.268 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 13:31:26.273 [main] APITests - GET API Test Passed
+[DEBUG] 2025-08-15 20:27:16.325 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 20:27:27.739 [main] APITests - Running sample API test with employee count: 24
+[INFO ] 2025-08-15 20:27:27.739 [main] APITests - GET API Test Passed
+[INFO ] 2025-08-15 20:27:28.347 [main] APITests - POST Response: {"id":"ff8081819782e69e0198ae3c76e027c3","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T14:57:34.944+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-15 20:37:03.448 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 20:37:11.977 [main] APITests - POST Response: {"id":"ff8081819782e69e0198ae455e4f27d3","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T15:07:18.480+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 20:37:15.331 [main] APITests - Device ID Passed with message: null
+[DEBUG] 2025-08-15 20:39:58.965 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 20:40:06.220 [main] APITests - POST Response: {"id":"ff8081819782e69e0198ae48078727d6","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T15:10:12.871+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-15 20:41:42.695 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 20:41:49.354 [main] APITests - POST Response: {"id":"ff8081819782e69e0198ae4999e427dc","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T15:11:55.876+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-15 20:42:28.363 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 20:42:35.119 [main] APITests - POST Response: {"id":"ff8081819782e69e0198ae4a4d1e27df","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T15:12:41.758+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 20:42:37.220 [main] APITests - Device ID Passed with message: ff8081819782e69e0198ae4a4d1e27df
+[DEBUG] 2025-08-15 22:57:26.681 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[DEBUG] 2025-08-15 22:59:15.198 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[DEBUG] 2025-08-15 23:00:12.526 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[DEBUG] 2025-08-15 23:02:18.247 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[DEBUG] 2025-08-15 23:04:17.274 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[DEBUG] 2025-08-15 23:05:23.510 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:05:25.614 [main] APITests - POST Response: {"id":"ff8081819782e69e0198aecd12e628bb","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T17:35:32.070+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:05:26.111 [main] APITests - Device ID Passed with message: ff8081819782e69e0198aecd12e628bb
+[DEBUG] 2025-08-15 23:12:37.856 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:12:39.790 [main] APITests - POST Response: {"id":"ff8081819782e69e0198aed3b40128d3","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T17:42:46.529+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:12:40.275 [main] APITests - Device ID Passed with message: ff8081819782e69e0198aed3b40128d3
+[DEBUG] 2025-08-15 23:16:29.472 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:16:31.112 [main] APITests - POST Response: {"id":"ff8081819782e69e0198aed73b6328dc","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T17:46:37.795+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:16:31.652 [main] APITests - Device ID Passed with message: ff8081819782e69e0198aed73b6328dc
+[DEBUG] 2025-08-15 23:46:57.674 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:46:59.567 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aef321f6297c","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:17:06.295+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:47:00.086 [main] APITests - Device ID: ff8081819782e69e0198aef321f6297c
+[INFO ] 2025-08-15 23:47:00.470 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-15 23:47:01.176 [main] APITests - PUT Response to phone update: {"timestamp":"2025-08-15T18:17:07.979+00:00","status":405,"error":"Method Not Allowed","path":"/objects"}
+[INFO ] 2025-08-15 23:47:01.482 [main] APITests - DELETE Response: {"timestamp":"2025-08-15T18:17:08.213+00:00","status":405,"error":"Method Not Allowed","path":"/objects"}
+[DEBUG] 2025-08-15 23:48:34.959 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:48:37.047 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aef49dda2984","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:18:43.546+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:48:37.470 [main] APITests - Device ID: ff8081819782e69e0198aef49dda2984
+[INFO ] 2025-08-15 23:48:37.848 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-15 23:48:38.552 [main] APITests - PUT Response to phone update: {"timestamp":"2025-08-15T18:18:45.286+00:00","status":405,"error":"Method Not Allowed","path":"/objects"}
+[INFO ] 2025-08-15 23:48:38.865 [main] APITests - DELETE Response: {"timestamp":"2025-08-15T18:18:45.628+00:00","status":405,"error":"Method Not Allowed","path":"/objects"}
+[DEBUG] 2025-08-15 23:52:13.672 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:52:15.773 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aef7f4f5299b","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:22:22.454+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:52:16.233 [main] APITests - Device ID: ff8081819782e69e0198aef7f4f5299b
+[INFO ] 2025-08-15 23:52:16.789 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-15 23:52:17.655 [main] APITests - PUT Response to phone update: {"timestamp":"2025-08-15T18:22:24.465+00:00","status":405,"error":"Method Not Allowed","path":"/objects"}
+[DEBUG] 2025-08-15 23:54:57.450 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:54:59.212 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aefa73a229af","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:25:05.954+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:54:59.659 [main] APITests - Device ID: ff8081819782e69e0198aefa73a229af
+[INFO ] 2025-08-15 23:55:00.014 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[DEBUG] 2025-08-15 23:56:26.940 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:56:28.705 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aefbd15e29b6","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:26:35.486+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:56:29.147 [main] APITests - Device ID: ff8081819782e69e0198aefbd15e29b6
+[INFO ] 2025-08-15 23:56:29.615 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[DEBUG] 2025-08-15 23:57:33.231 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-15 23:57:35.360 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aefcd50929b7","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:27:41.961+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-15 23:57:35.845 [main] APITests - Device ID: ff8081819782e69e0198aefcd50929b7
+[INFO ] 2025-08-15 23:57:36.243 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[DEBUG] 2025-08-16 00:00:13.140 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 00:00:15.111 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198aeff456629bb","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:30:21.798+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 00:00:15.565 [main] APITests - Device ID: ff8081819782e69e0198aeff456629bb
+[INFO ] 2025-08-16 00:00:16.035 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[DEBUG] 2025-08-16 00:02:03.033 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 00:02:04.873 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198af00f28b29c4","name":"Apple IPhone 13-RK","createdAt":"2025-08-15T18:32:11.659+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 00:02:05.373 [main] APITests - Device ID: ff8081819782e69e0198af00f28b29c4
+[INFO ] 2025-08-16 00:02:05.883 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[DEBUG] 2025-08-16 12:03:57.471 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:04:00.129 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b195c7c72e99","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:34:00.007+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:04:00.954 [main] APITests - Device ID: ff8081819782e69e0198b195c7c72e99
+[INFO ] 2025-08-16 12:04:01.261 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:04:01.839 [main] APITests - Phone ID for 'Google Pixel 6 Pro': 1
+[INFO ] 2025-08-16 12:04:01.842 [main] APITests - Number of phones: 13
+[INFO ] 2025-08-16 12:04:02.077 [main] APITests - PUT Response to phone update: {"timestamp":"2025-08-16T06:34:02.073+00:00","status":405,"error":"Method Not Allowed","path":"/objects"}
+[DEBUG] 2025-08-16 12:06:13.560 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:06:16.018 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b197da672ea0","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:36:15.847+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:06:16.664 [main] APITests - Device ID: ff8081819782e69e0198b197da672ea0
+[INFO ] 2025-08-16 12:06:17.193 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:06:17.507 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b197da672ea0","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:36:17.398+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-16 12:07:34.193 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:07:36.696 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b19915ec2ea3","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:37:36.620+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:07:37.340 [main] APITests - Device ID: ff8081819782e69e0198b19915ec2ea3
+[INFO ] 2025-08-16 12:07:37.703 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:07:38.096 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b19915ec2ea3","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:37:37.999+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-16 12:08:12.189 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:08:15.003 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b199ab4f2ea6","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:38:14.864+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:08:15.594 [main] APITests - Device ID: ff8081819782e69e0198b199ab4f2ea6
+[INFO ] 2025-08-16 12:08:16.004 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:08:16.293 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b199ab4f2ea6","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:38:16.225+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-16 12:08:55.960 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:08:58.535 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b19a558d2ea9","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:38:58.445+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:08:59.157 [main] APITests - Device ID: ff8081819782e69e0198b19a558d2ea9
+[INFO ] 2025-08-16 12:08:59.532 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:08:59.810 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b19a558d2ea9","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:38:59.726+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-16 12:12:03.523 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:12:05.913 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b19d31392eae","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:42:05.753+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:12:06.600 [main] APITests - Device ID: ff8081819782e69e0198b19d31392eae
+[INFO ] 2025-08-16 12:12:06.940 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:12:07.308 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b19d31392eae","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:42:07.227+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[DEBUG] 2025-08-16 12:19:15.357 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[DEBUG] 2025-08-16 12:20:59.353 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:21:01.986 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1a55f562ebb","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:51:01.846+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:21:02.714 [main] APITests - Device ID: ff8081819782e69e0198b1a55f562ebb
+[INFO ] 2025-08-16 12:21:03.014 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[DEBUG] 2025-08-16 12:23:42.508 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:23:44.778 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1a7db852ebc","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:53:44.709+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:23:45.400 [main] APITests - Device ID: ff8081819782e69e0198b1a7db852ebc
+[INFO ] 2025-08-16 12:23:45.677 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:23:45.902 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b1a7db852ebc","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:53:45.881+00:00","data":{"year":2021,"price":799.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:23:45.946 [main] APITests - PUT API Test Passed with phone price: 799.99
+[DEBUG] 2025-08-16 12:26:21.084 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:26:23.573 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1aa47bc2ec3","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:56:23.484+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:26:24.675 [main] APITests - PUT Response to phone update: {"error":"The Object with id = null doesn't exist. Please provide an object id which exists or generate a new Object using POST request and capture the id of it to use it as part of PUT request after that."}
+[DEBUG] 2025-08-16 12:27:02.114 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:27:04.260 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1aae6a52ec4","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T06:57:04.165+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:27:05.132 [main] APITests - Device ID: ff8081819782e69e0198b1aae6a52ec4
+[INFO ] 2025-08-16 12:27:05.596 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:27:05.971 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b1aae6a52ec4","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T06:57:05.845+00:00","data":{"year":2021,"price":799.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:27:06.005 [main] APITests - PUT API Test Passed with phone price: 799.99
+[DEBUG] 2025-08-16 12:32:09.166 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:32:11.482 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1af96742ecb","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T07:02:11.316+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:32:12.108 [main] APITests - Device ID: ff8081819782e69e0198b1af96742ecb
+[INFO ] 2025-08-16 12:32:12.586 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:32:12.860 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b1af96742ecb","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T07:02:12.792+00:00","data":{"year":2021,"price":799.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:32:12.888 [main] APITests - PUT API Test Passed with phone price: 799.99
+[DEBUG] 2025-08-16 12:46:23.762 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:46:26.409 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1bca24f2edb","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T07:16:26.319+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:46:27.109 [main] APITests - Device ID: ff8081819782e69e0198b1bca24f2edb
+[INFO ] 2025-08-16 12:46:27.520 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:46:27.901 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b1bca24f2edb","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T07:16:27.823+00:00","data":{"year":2021,"price":799.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:46:27.948 [main] APITests - PUT API Test Passed with phone price: 799.99
+[DEBUG] 2025-08-16 12:47:32.500 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:47:35.071 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1bdae982edd","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T07:17:35.000+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:47:35.840 [main] APITests - Device ID: ff8081819782e69e0198b1bdae982edd
+[INFO ] 2025-08-16 12:47:36.273 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:47:36.545 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b1bdae982edd","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T07:17:36.495+00:00","data":{"year":2021,"price":799.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:47:36.599 [main] APITests - PUT API Test Passed with phone price: 799.99
+[INFO ] 2025-08-16 12:47:36.916 [main] APITests - DELETE Response: {"message":"Object with id = ff8081819782e69e0198b1bdae982edd has been deleted."}
+[INFO ] 2025-08-16 12:47:37.227 [main] APITests - DELETE API Test Passed, phone deleted successfully
+[DEBUG] 2025-08-16 12:53:08.068 [main] TestNG - suiteXmlPath: "c:\Users\Reetanshu Kumar\Documents\GitHub\selenium-restassured-automation\src\main\resources\testng.xml"
+[INFO ] 2025-08-16 12:53:12.321 [main] Login - login successfull
+[INFO ] 2025-08-16 12:53:12.580 [main] Login - Page title: Swag Labs
+[INFO ] 2025-08-16 12:53:12.660 [main] Login - Login test passed with product count as: 6
+[INFO ] 2025-08-16 12:53:12.793 [main] Login - Browser closed successfully
+[INFO ] 2025-08-16 12:53:15.023 [main] APITests - POST Response to phone creation : {"id":"ff8081819782e69e0198b1c2ddef2ee4","name":"Apple IPhone 13-RK","createdAt":"2025-08-16T07:23:14.800+00:00","data":{"year":2021,"price":899.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:53:15.831 [main] APITests - Device ID: ff8081819782e69e0198b1c2ddef2ee4
+[INFO ] 2025-08-16 12:53:16.155 [main] APITests - GET API Test Passed with phone name: Apple IPhone 13-RK
+[INFO ] 2025-08-16 12:53:16.466 [main] APITests - PUT Response to phone update: {"id":"ff8081819782e69e0198b1c2ddef2ee4","name":"Apple IPhone 13-RK","updatedAt":"2025-08-16T07:23:16.388+00:00","data":{"year":2021,"price":799.99,"CPU model":"Google Tensor","Hard disk size":"128 GB"}}
+[INFO ] 2025-08-16 12:53:16.506 [main] APITests - PUT API Test Passed with phone price: 799.99
+[INFO ] 2025-08-16 12:53:16.780 [main] APITests - DELETE Response: {"message":"Object with id = ff8081819782e69e0198b1c2ddef2ee4 has been deleted."}
+[INFO ] 2025-08-16 12:53:17.094 [main] APITests - DELETE API Test Passed, phone deleted successfully

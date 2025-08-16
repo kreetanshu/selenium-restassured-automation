@@ -14,6 +14,7 @@ import com.example.automation.base.BaseFactory;
 import com.example.automation.pages.LandingPage;
 import com.example.automation.pages.LoginPage;
 
+@Test(groups = {"web"})
 public class Login extends BaseFactory {
 
     LoginPage loginPage;

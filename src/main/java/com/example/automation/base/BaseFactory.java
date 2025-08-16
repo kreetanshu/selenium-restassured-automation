@@ -15,7 +15,7 @@ public class BaseFactory {
     public static WebDriver driver;
     public static Properties prop;
     
-    @BeforeSuite
+    @BeforeSuite(groups= {"web"})
     public void driverInitialization(){
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--incognito");
@@ -25,7 +25,7 @@ public class BaseFactory {
         //return driver;
     }
 
-    @BeforeSuite
+    @BeforeSuite(groups= {"web","api"})
     public void loadProfiles(){
       try {
         prop = new Properties();

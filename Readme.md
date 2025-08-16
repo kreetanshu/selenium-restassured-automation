@@ -30,6 +30,8 @@ This repository contains sample projects demonstrating automated testing using *
     - Sending GET, POST, PUT, DELETE requests.
     - Validating response status codes and response bodies.
     - Using JSON path for response assertions.
+    - Chaining API requests (e.g., create, update, delete a resource).
+    - Grouping and prioritizing tests using TestNG.
 
 **Technologies Used:**  
 - Java  
@@ -41,9 +43,9 @@ This repository contains sample projects demonstrating automated testing using *
 ## Getting Started
 
 1. Clone the repository.
-2. Import the projects into your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
+2. Import the project into your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Install dependencies using Maven or Gradle.
-4. Run the test cases using your test runner.
+4. Run the test cases using your test runner (TestNG or JUnit).
 
 ---
 
@@ -54,6 +56,8 @@ This repository contains sample projects demonstrating automated testing using *
     └── src/test/java/...
 /restassured-sample/
     └── src/test/java/...
+/api-sample/
+    └── src/test/java/api/sampleDev/APITests.java
 ```
 
 ---
