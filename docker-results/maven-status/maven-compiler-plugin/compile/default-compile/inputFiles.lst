@@ -1,0 +1,5 @@
+/app/src/main/java/com/example/automation/pages/LandingPage.java
+/app/src/main/java/com/example/automation/pages/LoginPage.java
+/app/src/main/java/com/example/automation/utils/commonUtils/APIUtils.java
+/app/src/main/java/com/example/automation/utils/commonUtils/UIUtils.java
+/app/src/main/java/com/example/automation/base/BaseFactory.java

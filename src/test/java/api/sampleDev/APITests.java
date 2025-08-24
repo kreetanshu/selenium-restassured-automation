@@ -1,14 +1,12 @@
 package api.sampleDev;
 
-import java.util.Map;
-
-import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertTrue;
-
 import java.util.List;
+import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertTrue;
 import org.testng.annotations.Test;
 
 import com.example.automation.base.BaseFactory;
@@ -122,6 +120,5 @@ public class APITests extends BaseFactory {
         
         assertTrue(getResponse.getStatusCode() == 404, "Phone was not deleted successfully, status code: " + getResponse.getStatusCode());
         log.info("DELETE API Test Passed, phone deleted successfully");
-        
     }    
 }

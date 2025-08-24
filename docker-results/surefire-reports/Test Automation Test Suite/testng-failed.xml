@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Automation Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="WebUI Test Cases(failed)" verbose="0">
+    <groups>
+      <run>
+        <include name="web"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="webui.loginPage.Login">
+        <methods>
+          <include name="validateLogin"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loadProfiles"/>
+          <include name="driverInitialization"/>
+        </methods>
+      </class> <!-- webui.loginPage.Login -->
+    </classes>
+  </test> <!-- WebUI Test Cases(failed) -->
+  <test thread-count="5" name="API Test Cases(failed)" verbose="0">
+    <groups>
+      <run>
+        <include name="api"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="webui.loginPage.Login">
+        <methods>
+          <include name="driverInitialization"/>
+        </methods>
+      </class> <!-- webui.loginPage.Login -->
+      <class name="api.sampleDev.APITests">
+        <methods>
+          <include name="putPhoneAPI"/>
+          <include name="deletePhoneAPI"/>
+          <include name="postPhoneAPI"/>
+          <include name="loadProfiles"/>
+          <include name="getPhoneAPI"/>
+        </methods>
+      </class> <!-- api.sampleDev.APITests -->
+    </classes>
+  </test> <!-- API Test Cases(failed) -->
+</suite> <!-- Failed suite [Test Automation Test Suite] -->
