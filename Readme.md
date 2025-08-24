@@ -4,6 +4,25 @@ This repository contains sample projects demonstrating automated testing using *
 
 ---
 
+## Pre-requisites
+
+Before you begin, ensure you have the following installed on your system:
+
+- **Java 17 JDK**
+    - [Download Java 17](https://adoptium.net/temurin/releases/?version=17)
+    - Verify installation: `java -version`
+- **Maven 3.6+**
+    - [Download Maven](https://maven.apache.org/download.cgi)
+    - Verify installation: `mvn -version`
+- **Google Chrome** (for Selenium UI tests)
+    - [Download Chrome](https://www.google.com/chrome/)
+- **ChromeDriver** (if not using WebDriverManager)
+    - [Download ChromeDriver](https://sites.google.com/chromium.org/driver/)
+- **Git** (to clone the repository)
+    - [Download Git](https://git-scm.com/downloads)
+
+---
+
 ## Selenium Sample Project
 
 **Selenium** is a popular tool for automating web browsers. The sample project includes:
@@ -61,6 +80,14 @@ This repository contains sample projects demonstrating automated testing using *
 ```
 
 ---
+
+## Run the project
+
+After cloing the project navigate to the `SELENIUM-RESTASSURED-AUTOMATION` project and run the below MAVEN command
+
+```bash
+mvn test
+```
 
 ## Dockerize your project
 
