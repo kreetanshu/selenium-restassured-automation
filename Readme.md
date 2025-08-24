@@ -62,6 +62,25 @@ This repository contains sample projects demonstrating automated testing using *
 
 ---
 
+## Dockerize your project
+
+Refer the [Dockerfile](/Dockerfile) for steps to containerize this project for CI/CD runs
+
+```bash
+docker build -t selenium-restassured-automation .
+```
+
+
+> **Important:**  
+>In the below command passing docker bind mount `-v $PWD/docker-results:/app/target` flag is optional and should be used for local docker run, not for CI/CD. 
+
+>The Docker bind mount volume approach is used for debugging. Passing the bind mount path with the `-v` flag copies the test results from the Docker container to your local machine.
+
+
+```bash
+docker run -v $PWD/docker-results:/app/target --rm selenium-restassured-automation
+```
+
 ## Contribution
 
 Feel free to fork the repository and submit pull requests for improvements or additional test cases.
